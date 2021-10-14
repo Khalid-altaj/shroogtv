@@ -1,0 +1,92 @@
+
+<div class="nav fixed-top">
+<div class="all">
+<div class="brand">قناة الجزيرة الاخبارية</div>
+
+
+
+<ul>
+<router-link tag="li" to="/" exact> <a>سياسة</a> </router-link> |
+<router-link tag="li" to="/programing" exact> <a>البرامج</a> </router-link>|
+<router-link tag="li" to="/Sport" exact> <a>رياضة</a> </router-link> |
+<router-link tag="li" to="/Price"> <a>إقتصاد</a> </router-link> |
+<router-link tag="li" to="/Act"> <a>فن</a> </router-link> |
+<router-link tag="li" to="/Tecpage"> <a> تكنلوجيا</a> </router-link>|
+<router-link tag="li" to="/culture"> <a>ثقافة</a> </router-link>|
+<router-link tag="li" to="/heritage" exact> <a>تراث</a> </router-link> |
+<router-link tag="li" to="/sguare"> <a>ميدان</a> </router-link> |
+<router-link tag="li" to="/leadership"><a> ريادة</a></router-link>
+   
+</ul>
+
+
+
+
+
+
+<div class="Social">
+
+     <li><div class="Facebook"> <a href="https://www.facebook.com/search/top?q=al%20jazeera%20channel%20-%20%D9%82%D9%86%D8%A7%D8%A9%20%D8%A7%D9%84%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9"><i class="fab fa-facebook-f"></i></a> </div></li>
+     <li><div class="Twitter"> <a href="https://twitter.com/ajarabic?lang=en"><i class="fab fa-twitter"></i></a> </div></li>
+     <li><div class="Whatsapp"> <a href=""><i class="fab fa-whatsapp"></i></a> </div> </li>
+     <li><div class="instgram"> <a href="https://www.instagram.com/aljazeera/"><i class="fab fa-instagram"></i></a> </div></li>
+     <li><div class="google"> <a href="https://www.aljazeera.net"><i class="far fa-envelope"></i></a> </div></li>
+  
+</div>
+
+
+<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <i class="fas fa-bars"></i>
+</button>
+
+
+<div class="collapse navbar-collapse" id="navbarSupportedContent">
+<ul>
+<router-link tag="li" to="/" exact> <a>سياسة</a> </router-link> |
+<router-link tag="li" to="/programing" exact> <a>البرامج</a> </router-link>|
+<router-link tag="li" to="/Sport" exact> <a>رياضة</a> </router-link> |
+<router-link tag="li" to="/Price"> <a>إقتصاد</a> </router-link> |
+<router-link tag="li" to="/Act"> <a>فن</a> </router-link> |
+<router-link tag="li" to="/Tecpage"> <a> تكنلوجيا</a> </router-link>|
+<router-link tag="li" to="/culture"> <a>ثقافة</a> </router-link>|
+<router-link tag="li" to="/heritage" exact> <a>تراث</a> </router-link> |
+<router-link tag="li" to="/sguare"> <a>ميدان</a> </router-link> |
+<router-link tag="li" to="/leadership"><a> ريادة</a></router-link>
+   
+</ul>
+
+
+
+
+
+
+<div class="Social">
+
+     <li><div class="Facebook"> <a href="https://www.facebook.com/search/top?q=al%20jazeera%20channel%20-%20%D9%82%D9%86%D8%A7%D8%A9%20%D8%A7%D9%84%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9"><i class="fab fa-facebook-f"></i></a> </div></li>
+     <li><div class="Twitter"> <a href="https://twitter.com/ajarabic?lang=en"><i class="fab fa-twitter"></i></a> </div></li>
+     <li><div class="Whatsapp"> <a href=""><i class="fab fa-whatsapp"></i></a> </div> </li>
+     <li><div class="instgram"> <a href="https://www.instagram.com/aljazeera/"><i class="fab fa-instagram"></i></a> </div></li>
+     <li><div class="google"> <a href="https://www.aljazeera.net"><i class="far fa-envelope"></i></a> </div></li>
+  
+</div>
+    
+</div>
+
+</div>
+
+</div>
+<!-- Start Social Design in Html --> 
+
+<div class="Social2">
+<div class="facbook" title="Fllow Me On Facbook"><a href="https://www.facebook.com/search/top?q=al%20jazeera%20channel%20-%20%D9%82%D9%86%D8%A7%D8%A9%20%D8%A7%D9%84%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9" class="hvr-pulse"><i class="fab fa-facebook-f"></i></a></div> 
+<div class="twitter"  title="Fllow Me On twitter"><a href="https://twitter.com/ajarabic?lang=en" class="hvr-pulse"><i class="fab fa-twitter"></i></a></div> 
+<div class="instagram"  title="Fllow Me On instagram"><a href="https://www.instagram.com/aljazeera/" class="hvr-pulse"><i class="fab fa-instagram"></i></a></div>
+<div class="gmail"  title="Send Me On gmail"><a href="https://www.aljazeera.net" class="hvr-pulse"><i class="far fa-envelope"></i></a></div>
+<div class="whatsapp"  title="Masseges Me On whatsapp"><a href="" class="hvr-pulse"><i class="fab fa-whatsapp"></i></a></div> 
+
+       
+</div>
+
+<!-- End Social--> 
+
+
